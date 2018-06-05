@@ -1,0 +1,594 @@
+[
+  {
+    "MatchID": 49524,
+    "MatchDateTime": "2018-06-14T17:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-14T15:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 150,
+      "TeamName": "Russland",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png",
+      "TeamGroupName": "Gruppe A"
+    },
+    "Team2": {
+      "TeamId": 2408,
+      "TeamName": "Saudi-Arabien",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/20px-Flag_of_Saudi_Arabia.svg.png",
+      "TeamGroupName": "Gruppe A"
+    },
+    "LastUpdateDateTime": "2018-03-06T09:57:15.663",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1121,
+      "LocationCity": "Moskau",
+      "LocationStadium": "Luschniki-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49525,
+    "MatchDateTime": "2018-06-15T14:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-15T12:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 1392,
+      "TeamName": "ƒgypten",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/20px-Flag_of_Egypt.svg.png",
+      "TeamGroupName": "Gruppe A"
+    },
+    "Team2": {
+      "TeamId": 849,
+      "TeamName": "Uruguay",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/20px-Flag_of_Uruguay.svg.png",
+      "TeamGroupName": "Gruppe A"
+    },
+    "LastUpdateDateTime": "2018-03-06T09:58:57.167",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1120,
+      "LocationCity": "Jekaterinburg",
+      "LocationStadium": "Jekaterinburg-Arena"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49526,
+    "MatchDateTime": "2018-06-15T17:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-15T15:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 4629,
+      "TeamName": "Marokko",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/20px-Flag_of_Morocco.svg.png",
+      "TeamGroupName": "Gruppe B"
+    },
+    "Team2": {
+      "TeamId": 2672,
+      "TeamName": "Iran",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/20px-Flag_of_Iran.svg.png",
+      "TeamGroupName": "Gruppe B"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:14:17.053",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1141,
+      "LocationCity": "Sankt-Petersburg",
+      "LocationStadium": "Sankt-Petersburg-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49527,
+    "MatchDateTime": "2018-06-15T20:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-15T18:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 149,
+      "TeamName": "Portugal",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png",
+      "TeamGroupName": "Gruppe B"
+    },
+    "Team2": {
+      "TeamId": 170,
+      "TeamName": "Spanien",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png",
+      "TeamGroupName": "Gruppe B"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:23:01.567",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1123,
+      "LocationCity": "Sotschi",
+      "LocationStadium": "Fischt-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49528,
+    "MatchDateTime": "2018-06-16T12:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-16T10:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 144,
+      "TeamName": "Frankreich",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png",
+      "TeamGroupName": "Gruppe C"
+    },
+    "Team2": {
+      "TeamId": 750,
+      "TeamName": "Australien",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/20px-Flag_of_Australia.svg.png",
+      "TeamGroupName": "Gruppe C"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:23:13.78",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1124,
+      "LocationCity": "Kasan",
+      "LocationStadium": "Kasan-Arena"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49529,
+    "MatchDateTime": "2018-06-16T15:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-16T13:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 764,
+      "TeamName": "Argentinien",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png",
+      "TeamGroupName": "Gruppe D"
+    },
+    "Team2": {
+      "TeamId": 1394,
+      "TeamName": "Island",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/200px-Flag_of_Iceland.svg.png",
+      "TeamGroupName": "Gruppe D"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:24:08.697",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1125,
+      "LocationCity": "Moskau",
+      "LocationStadium": "Spartak-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49530,
+    "MatchDateTime": "2018-06-16T18:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-16T16:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 3177,
+      "TeamName": "Peru",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/20px-Flag_of_Peru.svg.png",
+      "TeamGroupName": "Gruppe C"
+    },
+    "Team2": {
+      "TeamId": 758,
+      "TeamName": "D‰nemark",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+      "TeamGroupName": "Gruppe C"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:24:22.207",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1126,
+      "LocationCity": "Saransk",
+      "LocationStadium": "Mordwinien-Arena"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49531,
+    "MatchDateTime": "2018-06-16T21:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-16T19:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 146,
+      "TeamName": "Kroatien",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png",
+      "TeamGroupName": "Gruppe D"
+    },
+    "Team2": {
+      "TeamId": 847,
+      "TeamName": "Nigeria",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/20px-Flag_of_Nigeria.svg.png",
+      "TeamGroupName": "Gruppe D"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:24:39.073",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1127,
+      "LocationCity": "Kaliningrad",
+      "LocationStadium": "Kaliningrad-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49532,
+    "MatchDateTime": "2018-06-17T14:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-17T12:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 2669,
+      "TeamName": "Costa Rica",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/20px-Flag_of_Costa_Rica.svg.png",
+      "TeamGroupName": "Gruppe E"
+    },
+    "Team2": {
+      "TeamId": 1404,
+      "TeamName": "Serbien",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "TeamGroupName": "Gruppe E"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:24:53.09",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1128,
+      "LocationCity": "Samara",
+      "LocationStadium": "Samara-Arena"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49533,
+    "MatchDateTime": "2018-06-17T17:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-17T15:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 139,
+      "TeamName": "Deutschland",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png",
+      "TeamGroupName": "Gruppe F"
+    },
+    "Team2": {
+      "TeamId": 761,
+      "TeamName": "Mexiko",
+      "ShortName": "MEX",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/20px-Flag_of_Mexico.svg.png",
+      "TeamGroupName": "Gruppe F"
+    },
+    "LastUpdateDateTime": "2018-03-06T09:57:31.107",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1121,
+      "LocationCity": "Moskau",
+      "LocationStadium": "Luschniki-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49534,
+    "MatchDateTime": "2018-06-17T20:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-17T18:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 753,
+      "TeamName": "Brasilien",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png",
+      "TeamGroupName": "Gruppe E"
+    },
+    "Team2": {
+      "TeamId": 38,
+      "TeamName": "Schweiz",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg/23px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+      "TeamGroupName": "Gruppe E"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:25:09.747",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1129,
+      "LocationCity": "Rostow am Don",
+      "LocationStadium": "Rostow-Arena"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49535,
+    "MatchDateTime": "2018-06-18T14:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-18T12:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 151,
+      "TeamName": "Schweden",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/200px-Flag_of_Sweden.svg.png",
+      "TeamGroupName": "Gruppe F"
+    },
+    "Team2": {
+      "TeamId": 751,
+      "TeamName": "S¸dkorea",
+      "ShortName": "KOR",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png",
+      "TeamGroupName": "Gruppe F"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:16:41.427",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1142,
+      "LocationCity": "Nischni Nowgorod",
+      "LocationStadium": "Nischni-Nowgorod-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49536,
+    "MatchDateTime": "2018-06-18T17:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-18T15:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 2673,
+      "TeamName": "Belgien",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png",
+      "TeamGroupName": "Gruppe G"
+    },
+    "Team2": {
+      "TeamId": 4631,
+      "TeamName": "Panama",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/18px-Flag_of_Panama.svg.png",
+      "TeamGroupName": "Gruppe G"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:16:53.017",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1123,
+      "LocationCity": "Sotschi",
+      "LocationStadium": "Fischt-Stadion"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49537,
+    "MatchDateTime": "2018-06-18T20:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-18T18:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 1391,
+      "TeamName": "Tunesien",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/20px-Flag_of_Tunisia.svg.png",
+      "TeamGroupName": "Gruppe G"
+    },
+    "Team2": {
+      "TeamId": 755,
+      "TeamName": "England",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/18px-Flag_of_England.svg.png",
+      "TeamGroupName": "Gruppe G"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:17:04.087",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1131,
+      "LocationCity": "Wolgograd",
+      "LocationStadium": "Wolgograd-Arena"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49538,
+    "MatchDateTime": "2018-06-19T14:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-19T12:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 1469,
+      "TeamName": "Kolumbien",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png",
+      "TeamGroupName": "Gruppe H"
+    },
+    "Team2": {
+      "TeamId": 749,
+      "TeamName": "Japan",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png",
+      "TeamGroupName": "Gruppe H"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:17:18.753",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1126,
+      "LocationCity": "Saransk",
+      "LocationStadium": "Mordwinien-Arena"
+    },
+    "NumberOfViewers": null
+  },
+  {
+    "MatchID": 49539,
+    "MatchDateTime": "2018-06-19T17:00:00",
+    "TimeZoneID": "W. Europe Standard Time",
+    "LeagueId": 4220,
+    "LeagueName": "Fuﬂball-Weltmeisterschaft 2018 - Russland",
+    "MatchDateTimeUTC": "2018-06-19T15:00:00Z",
+    "Group": {
+      "GroupName": "1. Spieltag",
+      "GroupOrderID": 1,
+      "GroupID": 30803
+    },
+    "Team1": {
+      "TeamId": 1410,
+      "TeamName": "Polen",
+      "ShortName": "",
+      "TeamIconUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+      "TeamGroupName": "Gruppe H"
+    },
+    "Team2": {
+      "TeamId": 4630,
+      "TeamName": "Senegal",
+      "ShortName": "",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/20px-Flag_of_Senegal.svg.png",
+      "TeamGroupName": "Gruppe H"
+    },
+    "LastUpdateDateTime": "2018-03-06T10:17:38.54",
+    "MatchIsFinished": false,
+    "MatchResults": [],
+    "Goals": [],
+    "Location": {
+      "LocationID": 1125,
+      "LocationCity": "Moskau",
+      "LocationStadium": "Spartak-Stadion"
+    },
+    "NumberOfViewers": null
+  }
+]
