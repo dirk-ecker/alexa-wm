@@ -18,7 +18,6 @@
   },
   "dependencies": {
     "alexa-sdk": "^1.0.25",
-    "jsdom": "^11.6.2",
-    "lodash": "^4.17.5"
+    "axios": "^0.18.0"
   }
 }

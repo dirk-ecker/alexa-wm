@@ -27,11 +27,19 @@ const requestHandler = function(event, context, callback) {
 };
 
 const handlers = {
-    'LaunchRequest': function () {
-      this.emit('GetVocable');
-    },
+  'LaunchRequest': function () {
+  },
 
-    'GetVocable': function() {
+  'GetWhoPlays': function() {
+  },
+
+  'GetWhenPlays': function() {
+  },
+
+  'GetResultOfGame': function() {
+  },
+
+    'GetWhoPlays': function() {
         let speechOutput = 'Die drei Vokabeln von heute sind <break time="500ms"/>';
         let cardOutput = 'Die drei Vokabeln von heute sind:\n';
         vocable.getActual().then(text => {
