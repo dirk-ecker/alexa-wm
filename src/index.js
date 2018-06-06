@@ -1,6 +1,6 @@
 const Alexa = require('alexa-sdk');
 const vocable = require('./vocable');
-const APP_ID = 'amzn1.ask.skill.254735c4-7d9e-462a-92d6-70bdccf861d7';
+const APP_ID = 'amzn1.ask.skill.0ca7ae7c-8039-4a87-a278-a6024897883f';
 
 const languageStrings = {
     'de-DE': {
